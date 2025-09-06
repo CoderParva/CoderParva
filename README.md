@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Parva (CoderParva)
 
-<!--
-**CoderParva/CoderParva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I'm passionate about learning, building, and sharing projects in **Web Development** and **Artificial Intelligence**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🌱 Currently exploring **Full-Stack Development**  
+- 💻 Interested in **Artificial Intelligence & Machine Learning**  
+- 📫 Reach me: [LinkedIn] ( https://www.linkedin.com/in/parva-nachan-710631251/ ) | [Email](mailto:parvanachan2005@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+C++ | Python | Java | JavaScript | React | Node.js | MongoDB  
+
+---
+
+## 📌 Featured Projects
+- [MERN TASKS](https://github.com/CoderParva/MERN-TASKS)  
+- [Streamlit Example](https://github.com/CoderParva/streamlit-example)  
+
+---
+
+⭐️ **Thanks for visiting my profile!**
