@@ -18,7 +18,7 @@ C++ | Python | Java | JavaScript | React | Node.js | MongoDB
 ---
 
 ## 📌 Featured Projects
-- [MERN TASKS](https://github.com/CoderParva/MERN-TASKS)  
+- [Onebox - AI-Powered Email Aggregator](https://github.com/CoderParva/onebox)  
 - [Finance-Tracker-api](https://github.com/CoderParva/finance-tracker-api)  
 
 ---
