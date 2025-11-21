@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Parva (CoderParva)
+# 👋 Hi, I'm Parva 
 
 Welcome to my GitHub profile! 🚀  
 I'm passionate about learning, building, and sharing projects in **Web Development** and **Artificial Intelligence**.  
