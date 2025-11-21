@@ -19,7 +19,7 @@ C++ | Python | Java | JavaScript | React | Node.js | MongoDB
 
 ## 📌 Featured Projects
 - [MERN TASKS](https://github.com/CoderParva/MERN-TASKS)  
-- [Streamlit Example](https://github.com/CoderParva/streamlit-example)  
+- [Finance-Tracker-api](https://github.com/CoderParva/finance-tracker-api)  
 
 ---
 
