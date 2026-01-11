@@ -19,7 +19,8 @@ C++ | Python | Java | JavaScript | React | Node.js | MongoDB
 
 ## 📌 Featured Projects
 - [Onebox - AI-Powered Email Aggregator](https://github.com/CoderParva/onebox)  
-- [Finance-Tracker-api](https://github.com/CoderParva/finance-tracker-api)  
+- [Finance-Tracker-api](https://github.com/CoderParva/finance-tracker-api)
+- [Quiz-App](https://github.com/CoderParva/causal-funnel-quiz)
 
 ---
 
