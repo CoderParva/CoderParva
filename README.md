@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parva-nachan-710631251/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parvanachan2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-CoderParva-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoderParva)
+[![LeetCode](https://img.shields.io/badge/LeetCode-parva__nachan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/parva_nachan/)
 [![Profile Views](https://komarev.com/ghpvc/?username=CoderParva&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)](https://github.com/CoderParva)
 
 </div>
@@ -20,7 +21,7 @@
 ## 👨‍💻 About Me
 
 ```java
-public class ParvaNachan {
+public class ParvaHachan {
 
     String[] roles    = { "Backend Developer", "Full-Stack Engineer", "API Architect" };
     String   degree   = "B.Tech CSE @ VIT Bhopal (2026)";
@@ -150,6 +151,20 @@ public class ParvaNachan {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=CoderParva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+---
+
+## 🧩 LeetCode
+
+<div align="center">
+
+[![LeetCode Profile](https://img.shields.io/badge/Visit%20My%20LeetCode-parva__nachan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/parva_nachan/)
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/parva_nachan?theme=dark&font=Fira%20Code&ext=heatmap&hide_border=true" alt="Parva's LeetCode Stats" />
 
 </div>
 
