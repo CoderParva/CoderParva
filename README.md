@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 ```java
-public class ParvaHachan {
+public class Parva Nachan {
 
     String[] roles    = { "Backend Developer", "Full-Stack Engineer", "API Architect" };
     String   degree   = "B.Tech CSE @ VIT Bhopal (2026)";
